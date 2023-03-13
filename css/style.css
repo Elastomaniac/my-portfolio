@@ -127,6 +127,7 @@ transform: translate(-50%, 0);
 
 .card-img {
   margin-bottom: 20px;
+  width: 500px;
 }
 
 .card p {
